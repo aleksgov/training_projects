@@ -1,0 +1,11 @@
+*Ru*
+Разработать алгоритм, написать приложение с классами, разработать интерфейс, отражающий работу алгоритма.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Задание:
+Создать динамическую матрицу размером (n*n). Заполнить ее (используя генератор случайных чисел и вручную) так, чтобы среди ее элементов не было 0 и 1. Заменить неповторяющиеся элементы нулями, повторяющиеся – единицами. Удалить нулевые строки и столбцы. Показать механизм работы алгоритма.
+
+*En*
+Develop an algorithm, write an application with classes, develop an interface reflecting the operation of the algorithm.
+--------------------------------------------------------------------------------------------------------------------------------------------
+The task:
+Create dynamic matrix of size (n*n). Fill it (using a random number generator and manually) so that its elements don't contain 0 and 1. Replace non-repeating elements with zeros, repeating elements with ones. Delete null rows and columns. Show how the algorithm works.
