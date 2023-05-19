@@ -1,0 +1,9 @@
+*Ru*
+Используя структурный тип данных, создать базу данных и организовать с ней работу, включая поиск нужной информации, ее корректировку (изменение значений полей структур, дозапись информации в файл или ее удаление), вывод информации на экран. Программа должна содержать меню, позволяющее работать с базой данных.
+Задание:
+Создать базу данных чемпионата по фигурному катанию. Структура информации: фамилия фигуриста, страна, баллы за выступление. Подсчитать средний балл участников и распределить места.
+
+*En*
+Using the structured data type, create a database and organize work with it, including search for the necessary information, its correction (changing the values of the fields of the structures, adding information to the file or removing it), displaying the information on the screen. The program must contain a menu that allows you to work with the database.
+Task:
+Create a database of figure skating championships. Structure of the information: skater's last name, country, points for performance. Calculate the average score of participants and distribute places.
