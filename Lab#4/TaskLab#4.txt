@@ -1,0 +1,11 @@
+*Ru*
+Работа с динамическими структурами данных. Указатели. Динамическое управление памятью
+Организовать динамические структуры данных и обработать их по предложенному алгоритму.
+Задание:
+Из файла поместить в стек все символы, превышающие заданное значение.
+
+*En*
+Working with dynamic data structures. Pointers. Dynamic memory management.
+Organize dynamic data structures and process them according to the proposed algorithm.
+Task:
+From a file, place on the stack all characters that exceed a given value.
