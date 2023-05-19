@@ -1,0 +1,13 @@
+*Ru*
+Написать, отладить и протестировать программы обработки числовых и символьных массивов. Выбор решаемой задачи реализовать с
+помощью меню.
+Задание:
+1. Определить номера строк, содержащих нулевые элементы.
+2. Определить максимальное число идущих подряд пробелов в тексте.
+
+*En*
+Write, debug and test programs for processing numeric and character arrays. The choice of the problem to be solved is implemented with the
+with the help of menu.
+Task:
+1. Determine the numbers of lines containing zero elements.
+Determine the maximum number of consecutive spaces in the text.
