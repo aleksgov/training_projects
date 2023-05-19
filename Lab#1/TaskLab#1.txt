@@ -1,0 +1,11 @@
+*Ru*
+Первая часть:
+Проработать вопросы ввода/вывода переменных разных скалярных (простых) типов данных, поработать с побитовыми операциями, если этого нет в задании. Программа должна содержать разделы описания переменных простых типов. Следует организовать ввод значений с клавиатуры в переменные, составить выражения с использованием переменных, констант, знаков операций, в том числе побитовых операций, значения выражений вывести на экран в стандартной форме и с указанием формата. Особое внимание уделить изучению работы побитовых операций применительно к переменным целого типа, переводу чисел из одной системы счисления в другую.
+Вторая часть (задание):
+Определить значение i-го бита в записи целого числа. Написать программу обработки чисел с использованием побитовых операций.
+
+*En*
+First part:
+Work on the input/output of variables of different scalar (simple) data types, work on bitwise operations if this is not in the assignment. The program must contain sections describing variables of simple types. It is necessary to organize the input of values from the keyboard into variables, make expressions using variables, constants, signs of operations, including bitwise operations, display expression values in standard form and with an indication of the format. Particular attention should be paid to the study of bitwise operations for variables of integer type, the translation of numbers from one number system to another.
+Part two (the task):
+Determine the value of the i-th bit in an integer record. Write a program for processing numbers using bitwise operations.
