@@ -1,0 +1,13 @@
+*Ru*
+Лабораторная работа направлена на закрепление базовых понятий объектно-ориентированного программирования (таких как классы, данные классов, методы классов, спецификаторы public, private, объекты классов, перегрузка операторов). Решение обязательно должно включать реализацию конструкторов (а если класс владеет ресурсами, - например, динамически выделяется память – то кроме конструкторов обязательно должен быть деструктор), обязательно должна быть реализована перегрузка операторов. Программа обязательно должна быть многофайловой (описание класса в
+заголовочном файле .h, реализация – в файле с исходным кодом .cpp). Обязательно должны быть написаны модульные тесты.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Задание: 
+Разработать класс Количество информации. Объекты класса должны хранить значение количества информации (в байтах)" Перегрузить операции сравнения, арифметические операции, перегрузка >>, << (для ввода / вывода). Реализовать метод перевода количества информации из байт в бит, килобайт, мегабайт, гигабайт, терабайт.
+
+*En*
+Laboratory work is aimed at consolidation of basic concepts of object-oriented programming (such as classes, class data, class methods, specifiers public, private, class objects, operator overloading). The solution must necessarily include the implementation of constructors (and if the class owns resources - for example, dynamically allocated memory - then in addition to constructors must be a destructor), operator overloading must be implemented. The program must necessarily be multi-file (the class description in the
+header file .h, the implementation - in the file with the source code .cpp). It is mandatory to write unit tests.
+--------------------------------------------------------------------------------------------------------------------------------------------
+Assignment: 
+Develop a class Quantity of information. Class objects should store value of amount of information (in bytes)". Overload comparison operations, arithmetic operations, overload >>, << (for input/output). Implement method to convert amount of information from bytes to bits, kilobytes, megabytes, gigabytes, terabytes.
